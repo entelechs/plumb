@@ -2,3 +2,6 @@
 site/
 *.log
 .env*
+hosting/site/
+hosting/.wrangler/
+brand/logo-options.html

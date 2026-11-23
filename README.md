@@ -1,3 +1,10 @@
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/png/lockup-white.png">
+    <img src="brand/png/lockup-ink.png" alt="Plumb" height="72">
+  </picture>
+</p>
+
 # Plumb
 
 **Keeps every tenant true.**
